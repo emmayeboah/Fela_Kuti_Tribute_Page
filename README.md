@@ -1,6 +1,6 @@
-A Fela Kuti Tribute Page
+# Fela Kuti Tribute Page
 
-The story of the father of Afrobeat
+## The story of the father of Afrobeat
 
 This form part of my first series of projects as a front end developer
 
